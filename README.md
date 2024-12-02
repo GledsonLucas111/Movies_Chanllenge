@@ -4,7 +4,6 @@
 
 https://documenter.getpostman.com/view/19298430/2sAYBYgWMK
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
 
