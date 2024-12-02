@@ -32,3 +32,5 @@ $ npm run test
 # test coverage
 $ npm run test:cov
 ```
+## Description
+<p>O projeto foi feito utilizando nestjs, com typeorm e postgresSQL, o postgres eu rodei no docker, pode usar como preferir nessa parte. O projeto falta alguns detalhes para ficar 100%</p>
